@@ -1,0 +1,15 @@
+1. The algorithm accepts car.txt file which is the car evaluation file 
+2. builds the decision tree in terms of multiple if-else-if statements
+3. The entropy and gain are calcuted for each  attributed
+4. Final results is displayed in the form of multiple if-else-if-else statement.
+5.A user can decide the poisition of an input data in the decision tree 
+by observing the different results
+6.car.txt file is already included
+
+Running
+1. Make sure the file path is correct
+2. Compile and run using javac ID3.java and java ID3
+
+
+
+
